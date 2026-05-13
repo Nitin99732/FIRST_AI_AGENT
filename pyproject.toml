@@ -7,4 +7,6 @@ requires-python = ">=3.14"
 dependencies = [
     "python-docx>=0.8.11",
     "pymupdf>=1.27.2.3",
+    "langchain>=1.2.18",
+    "langchain-text-splitters>=1.1.2",
 ]
