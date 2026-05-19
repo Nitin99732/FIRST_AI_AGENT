@@ -1252,6 +1252,7 @@ dependencies = [
     { name = "langchain" },
     { name = "langchain-openai" },
     { name = "langchain-text-splitters" },
+    { name = "langgraph" },
     { name = "pymupdf" },
     { name = "python-docx" },
 ]
@@ -1262,6 +1263,7 @@ requires-dist = [
     { name = "langchain", specifier = ">=1.2.18" },
     { name = "langchain-openai", specifier = ">=1.2.1" },
     { name = "langchain-text-splitters", specifier = ">=1.1.2" },
+    { name = "langgraph", specifier = ">=1.1.10" },
     { name = "pymupdf", specifier = ">=1.27.2.3" },
     { name = "python-docx", specifier = ">=0.8.11" },
 ]

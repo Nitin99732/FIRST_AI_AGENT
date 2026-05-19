@@ -11,4 +11,5 @@ dependencies = [
     "langchain-text-splitters>=1.1.2",
     "langchain-openai>=1.2.1",
     "chromadb>=1.5.9",
+    "langgraph>=1.1.10",
 ]
